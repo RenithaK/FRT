@@ -1,12 +1,6 @@
 # FRT
 # ["Level-Up Lifestyle" Website using Microsoft Azure Technologies](https://jolly-sand-0b9be0e10.1.azurestaticapps.net)
 
-Project Link : https://jolly-sand-0b9be0e10.1.azurestaticapps.net
-
-Demo Video : https://vimeo.com/718651949
-
-_______________________________________________________________________________________________________________________________________________________________________
-
 Web Technologies used : HTML, CSS, JS, Bootstrap
 
 IDE : VS-Code
@@ -14,6 +8,8 @@ IDE : VS-Code
 Industry : Lifestyle
 
 Project Title : Level-Up Lifestyle
+
+Project Link : https://jolly-sand-0b9be0e10.1.azurestaticapps.net
 
 Problem Statement/Opportunity :
 
